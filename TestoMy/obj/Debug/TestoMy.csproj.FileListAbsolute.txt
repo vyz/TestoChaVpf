@@ -1,0 +1,8 @@
+E:\Sharpo\TestoMy\bin\Debug\TestoMy.dll
+E:\Sharpo\TestoMy\bin\Debug\TestoMy.pdb
+E:\Sharpo\TestoMy\bin\Debug\SrcChess2.exe
+E:\Sharpo\TestoMy\bin\Debug\SrcChess2.pdb
+E:\Sharpo\TestoMy\bin\Debug\SrcChess2.xml
+E:\Sharpo\TestoMy\obj\Debug\TestoMy.csprojResolveAssemblyReference.cache
+E:\Sharpo\TestoMy\obj\Debug\TestoMy.dll
+E:\Sharpo\TestoMy\obj\Debug\TestoMy.pdb

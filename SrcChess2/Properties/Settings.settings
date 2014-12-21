@@ -1,0 +1,66 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SrcChess2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PlyCount" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="UseBook" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="UseTransTable" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="UseThread" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="TransTableSize" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">32</Value>
+    </Setting>
+    <Setting Name="UseAlphaBeta" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="UsePlyCount" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="AverageTime" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+    <Setting Name="RandomMode" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="WhiteBoardEval" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Basic</Value>
+    </Setting>
+    <Setting Name="BlackBoardEval" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Basic</Value>
+    </Setting>
+    <Setting Name="MoveNotation" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="FlashPiece" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="WhitePieceColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="BlackPieceColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="LiteCellColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Moccasin</Value>
+    </Setting>
+    <Setting Name="DarkCellColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SaddleBrown</Value>
+    </Setting>
+    <Setting Name="UsePlyCountIterative" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="PieceSet" Type="System.String" Scope="User">
+      <Value Profile="(Default)">leipzig</Value>
+    </Setting>
+    <Setting Name="BackgroundColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SkyBlue</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

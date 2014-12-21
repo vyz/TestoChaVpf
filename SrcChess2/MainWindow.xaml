@@ -1,0 +1,74 @@
+﻿<Window x:Class="SrcChess2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SrcChess for WPF (Version 2.03)" Height="666" Width="947" xmlns:my="clr-namespace:SrcChess2"
+        Background="SkyBlue">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="_File">
+                <MenuItem Command="my:MainWindow.NewGameCommand" />
+                <Separator />
+                <MenuItem Command="my:MainWindow.LoadGameCommand" />
+                <MenuItem Command="my:MainWindow.CreateGameCommand" />
+                <MenuItem Command="my:MainWindow.SaveGameCommand" />
+                <MenuItem Command="my:MainWindow.SaveGameInPGNCommand" />
+                <Separator />
+                <MenuItem Command="my:MainWindow.QuitCommand" />
+            </MenuItem>
+            <MenuItem Header="_Edit">
+                <MenuItem Command="my:MainWindow.HintCommand" />
+                <MenuItem Command="my:MainWindow.UndoCommand" />
+                <MenuItem Command="my:MainWindow.RedoCommand" />
+                <Separator />
+                <MenuItem Command="my:MainWindow.RevertBoardCommand" />
+                <Separator />
+                <MenuItem Name="mnuEditPlayerAgainstPlayer" Command="my:MainWindow.PlayerAgainstPlayerCommand" />
+                <Separator />
+                <MenuItem Command="my:MainWindow.AutomaticPlayCommand" />
+                <MenuItem Command="my:MainWindow.FastAutomaticPlayCommand" />
+                <MenuItem Command="my:MainWindow.CancelPlayCommand" />
+                <Separator />
+                <MenuItem Name="mnuEditDesignMode" Command="my:MainWindow.DesignModeCommand" />
+            </MenuItem>
+            <MenuItem Header="_Options">
+                <MenuItem Command="my:MainWindow.SearchModeCommand" />
+                <Separator />
+                <MenuItem Name="mnuOptionFlashPiece" Command="my:MainWindow.FlashPieceCommand" IsCheckable="True" />
+                <MenuItem Name="mnuOptionPGNNotation" Command="my:MainWindow.PGNNotationCommand" IsCheckable="True" />
+                <Separator />
+                <MenuItem Command="my:MainWindow.BoardSettingCommand" />
+            </MenuItem>
+            <MenuItem Header="_Tool">
+                <MenuItem Command="my:MainWindow.CreateBookCommand" />
+                <MenuItem Command="my:MainWindow.FilterPGNFileCommand" />
+                <MenuItem Command="my:MainWindow.TestBoardEvaluationCommand" />
+            </MenuItem>
+            <MenuItem Header="_Help">
+                <MenuItem Command="my:MainWindow.AboutCommand" />
+            </MenuItem>
+        </Menu>
+        <my:ChessToolBar x:Name="m_toolbar"  DockPanel.Dock="Top" Height="40" FontSize="18"></my:ChessToolBar>
+        <StatusBar Name="m_statusBar" DockPanel.Dock="Bottom">
+            <StatusBarItem Name="m_statusLabelSearchMode" Content="Alpha-Beta 6 Ply" />
+            <Separator />
+            <StatusBarItem Name="m_statusLabelMove" Content="Move" />
+            <Separator />
+            <StatusBarItem Name="m_statusLabelPermutation" Content="Permutation" />
+        </StatusBar>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="5*"></ColumnDefinition>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Viewbox>
+                <my:LocalChessBoardControl x:Name="m_chessCtl" LiteCellColor="Moccasin" />
+            </Viewbox>
+            <my:MoveViewer x:Name="m_moveViewer" Grid.Column="1" Margin="0,10" Width="210"></my:MoveViewer>
+            <StackPanel Grid.Column="2">
+                <my:LostPiecesControl x:Name="m_lostPieceBlack" Margin="4,2,4,4" BorderBrush="LightGray" BorderThickness="1"></my:LostPiecesControl>
+                <my:LostPiecesControl x:Name="m_lostPieceWhite" Margin="4,4,4,0" BorderBrush="LightGray" BorderThickness="1"></my:LostPiecesControl>
+            </StackPanel>
+        </Grid>
+    </DockPanel>
+</Window>

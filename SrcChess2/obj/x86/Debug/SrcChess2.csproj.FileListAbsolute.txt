@@ -1,0 +1,361 @@
+E:\Sharpo\SrcChess2\bin\Debug\SrcChess2.exe.config
+E:\Sharpo\SrcChess2\bin\Debug\SrcChess2.exe
+E:\Sharpo\SrcChess2\bin\Debug\SrcChess2.pdb
+E:\Sharpo\SrcChess2\obj\x86\Debug\ChessBoardControl.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\frmAbout.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\frmCreatePgnGame.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\frmGameParameter.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\frmPgnFilter.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\frmPgnGamePicker.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\frmQueryPawnPromotionType.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\frmSearchMode.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\frmTestBoardEval.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\LostPiecesControl.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Adventurer\Black Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Adventurer\Black King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Adventurer\Black Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Adventurer\Black Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Adventurer\Black Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Adventurer\Black Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Adventurer\White Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Adventurer\White King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Adventurer\White Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Adventurer\White Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Adventurer\White Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Adventurer\White Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpfonso-X\Black Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpfonso-X\Black King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpfonso-X\Black Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpfonso-X\Black Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpfonso-X\Black Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpfonso-X\Black Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpfonso-X\White Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpfonso-X\White King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpfonso-X\White Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpfonso-X\White Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpfonso-X\White Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpfonso-X\White Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpha-2\Black Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpha-2\Black King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpha-2\Black Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpha-2\Black Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpha-2\Black Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpha-2\Black Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpha-2\White Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpha-2\White King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpha-2\White Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpha-2\White Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpha-2\White Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpha-2\White Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpha\Black Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpha\Black King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpha\Black Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpha\Black Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpha\Black Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpha\Black Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpha\White Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpha\White King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpha\White Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpha\White Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpha\White Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Alpha\White Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Arial Unicode MS\Black Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Arial Unicode MS\Black King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Arial Unicode MS\Black Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Arial Unicode MS\Black Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Arial Unicode MS\Black Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Arial Unicode MS\Black Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Arial Unicode MS\White Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Arial Unicode MS\White King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Arial Unicode MS\White Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Arial Unicode MS\White Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Arial Unicode MS\White Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Arial Unicode MS\White Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Berlin\Black Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Berlin\Black King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Berlin\Black Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Berlin\Black Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Berlin\Black Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Berlin\Black Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Berlin\White Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Berlin\White King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Berlin\White Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Berlin\White Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Berlin\White Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Berlin\White Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Cases\Black Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Cases\Black King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Cases\Black Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Cases\Black Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Cases\Black Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Cases\Black Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Cases\White Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Cases\White King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Cases\White Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Cases\White Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Cases\White Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Cases\White Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Chess-7\Black Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Chess-7\Black King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Chess-7\Black Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Chess-7\Black Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Chess-7\Black Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Chess-7\Black Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Chess-7\White Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Chess-7\White King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Chess-7\White Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Chess-7\White Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Chess-7\White Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Chess-7\White Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Condal\Black Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Condal\Black King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Condal\Black Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Condal\Black Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Condal\Black Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Condal\Black Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Condal\White Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Condal\White King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Condal\White Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Condal\White Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Condal\White Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Condal\White Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Harlequin\Black Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Harlequin\Black King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Harlequin\Black Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Harlequin\Black Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Harlequin\Black Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Harlequin\Black Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Harlequin\White Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Harlequin\White King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Harlequin\White Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Harlequin\White Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Harlequin\White Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Harlequin\White Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Kingdom\Black Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Kingdom\Black King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Kingdom\Black Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Kingdom\Black Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Kingdom\Black Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Kingdom\Black Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Kingdom\White Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Kingdom\White King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Kingdom\White Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Kingdom\White Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Kingdom\White Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Kingdom\White Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Leipzig\Black Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Leipzig\Black King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Leipzig\Black Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Leipzig\Black Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Leipzig\Black Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Leipzig\Black Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Leipzig\White Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Leipzig\White King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Leipzig\White Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Leipzig\White Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Leipzig\White Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Leipzig\White Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Line\Black Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Line\Black King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Line\Black Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Line\Black Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Line\Black Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Line\Black Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Line\White Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Line\White King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Line\White Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Line\White Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Line\White Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Line\White Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Lucena\Black Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Lucena\Black King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Lucena\Black Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Lucena\Black Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Lucena\Black Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Lucena\Black Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Lucena\White Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Lucena\White King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Lucena\White Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Lucena\White Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Lucena\White Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Lucena\White Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Magnetic\Black Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Magnetic\Black King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Magnetic\Black Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Magnetic\Black Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Magnetic\Black Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Magnetic\Black Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Magnetic\White Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Magnetic\White King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Magnetic\White Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Magnetic\White Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Magnetic\White Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Magnetic\White Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Maya\Black Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Maya\Black King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Maya\Black Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Maya\Black Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Maya\Black Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Maya\Black Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Maya\White Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Maya\White King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Maya\White Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Maya\White Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Maya\White Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Maya\White Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Mediaeval\Black Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Mediaeval\Black King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Mediaeval\Black Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Mediaeval\Black Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Mediaeval\Black Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Mediaeval\Black Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Mediaeval\White Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Mediaeval\White King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Mediaeval\White Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Mediaeval\White Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Mediaeval\White Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Mediaeval\White Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Merida\Black Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Merida\Black King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Merida\Black Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Merida\Black Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Merida\Black Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Merida\Black Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Merida\White Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Merida\White King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Merida\White Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Merida\White Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Merida\White Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Merida\White Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Millennia\Black Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Millennia\Black King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Millennia\Black Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Millennia\Black Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Millennia\Black Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Millennia\Black Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Millennia\White Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Millennia\White King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Millennia\White Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Millennia\White Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Millennia\White Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Millennia\White Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Motif\Black Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Motif\Black King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Motif\Black Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Motif\Black Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Motif\Black Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Motif\Black Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Motif\White Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Motif\White King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Motif\White Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Motif\White Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Motif\White Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Motif\White Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\MS Mincho\Black Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\MS Mincho\Black King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\MS Mincho\Black Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\MS Mincho\Black Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\MS Mincho\Black Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\MS Mincho\Black Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\MS Mincho\White Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\MS Mincho\White King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\MS Mincho\White Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\MS Mincho\White Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\MS Mincho\White Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\MS Mincho\White Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Plain\Black Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Plain\Black King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Plain\Black Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Plain\Black Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Plain\Black Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Plain\Black Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Plain\White Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Plain\White King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Plain\White Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Plain\White Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Plain\White Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Plain\White Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Segoe UI Symbol\Black Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Segoe UI Symbol\Black King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Segoe UI Symbol\Black Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Segoe UI Symbol\Black Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Segoe UI Symbol\Black Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Segoe UI Symbol\Black Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Segoe UI Symbol\White Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Segoe UI Symbol\White King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Segoe UI Symbol\White Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Segoe UI Symbol\White Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Segoe UI Symbol\White Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Segoe UI Symbol\White Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Smart\Black Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Smart\Black King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Smart\Black Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Smart\Black Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Smart\Black Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Smart\Black Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Smart\White Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Smart\White King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Smart\White Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Smart\White Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Smart\White Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Smart\White Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Traveller Standard\Black Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Traveller Standard\Black King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Traveller Standard\Black Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Traveller Standard\Black Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Traveller Standard\Black Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Traveller Standard\Black Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Traveller Standard\White Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Traveller Standard\White King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Traveller Standard\White Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Traveller Standard\White Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Traveller Standard\White Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Traveller Standard\White Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Usual\Black Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Usual\Black King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Usual\Black Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Usual\Black Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Usual\Black Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Usual\Black Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Usual\White Bishop.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Usual\White King.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Usual\White Knight.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Usual\White Pawn.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Usual\White Queen.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\PieceSets\Usual\White Rook.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\ChessBoardControl.g.cs
+E:\Sharpo\SrcChess2\obj\x86\Debug\ChessToolBar.g.cs
+E:\Sharpo\SrcChess2\obj\x86\Debug\CustomColorPicker.g.cs
+E:\Sharpo\SrcChess2\obj\x86\Debug\CustomColorSelector.g.cs
+E:\Sharpo\SrcChess2\obj\x86\Debug\frmAbout.g.cs
+E:\Sharpo\SrcChess2\obj\x86\Debug\frmBoardSetting.g.cs
+E:\Sharpo\SrcChess2\obj\x86\Debug\frmCreatePgnGame.g.cs
+E:\Sharpo\SrcChess2\obj\x86\Debug\frmGameParameter.g.cs
+E:\Sharpo\SrcChess2\obj\x86\Debug\frmPgnFilter.g.cs
+E:\Sharpo\SrcChess2\obj\x86\Debug\frmPgnGamePicker.g.cs
+E:\Sharpo\SrcChess2\obj\x86\Debug\frmQueryPawnPromotionType.g.cs
+E:\Sharpo\SrcChess2\obj\x86\Debug\frmSearchMode.g.cs
+E:\Sharpo\SrcChess2\obj\x86\Debug\frmTestBoardEval.g.cs
+E:\Sharpo\SrcChess2\obj\x86\Debug\LostPiecesControl.g.cs
+E:\Sharpo\SrcChess2\obj\x86\Debug\MainWindow.g.cs
+E:\Sharpo\SrcChess2\obj\x86\Debug\MoveViewer.g.cs
+E:\Sharpo\SrcChess2\obj\x86\Debug\App.g.cs
+E:\Sharpo\SrcChess2\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Sharpo\SrcChess2\obj\x86\Debug\SrcChess2_MarkupCompile.cache
+E:\Sharpo\SrcChess2\obj\x86\Debug\SrcChess2_MarkupCompile.lref
+E:\Sharpo\SrcChess2\obj\x86\Debug\ChessToolBar.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\CustomColorPicker.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\CustomColorSelector.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\frmBoardSetting.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\MainWindow.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\MoveViewer.baml
+E:\Sharpo\SrcChess2\obj\x86\Debug\SrcChess2.g.resources
+E:\Sharpo\SrcChess2\obj\x86\Debug\SrcChess2.Properties.Resources.resources
+E:\Sharpo\SrcChess2\obj\x86\Debug\SrcChess2.exe
+E:\Sharpo\SrcChess2\obj\x86\Debug\SrcChess2.pdb
+E:\Sharpo\SrcChess2\obj\x86\Debug\SrcChess2.csproj.GenerateResource.Cache
+E:\Sharpo\SrcChess2\bin\Debug\SrcChess2.XML
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\bin\Debug\SrcChess2.exe.config
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\bin\Debug\SrcChess2.XML
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\SrcChess2.exe
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\SrcChess2.pdb

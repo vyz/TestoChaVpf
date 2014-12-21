@@ -1,0 +1,91 @@
+﻿<Window x:Class="SrcChess2.frmSearchMode"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Search Mode" Height="423" Width="920" ResizeMode="NoResize" WindowStartupLocation="CenterOwner">
+    <DockPanel>
+        <StackPanel Orientation="Horizontal" DockPanel.Dock="Bottom" HorizontalAlignment="Center">
+            <Button Content="Ok" Height="23" HorizontalAlignment="Left" Margin="10" Name="butOk" VerticalAlignment="Top" Width="75" IsDefault="True" Click="butOk_Click" />
+            <Button Content="Cancel" Height="23" HorizontalAlignment="Center" Margin="10" Name="butCancel" VerticalAlignment="Center" Width="75" IsDefault="False" IsCancel="True" />
+        </StackPanel>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="25*" />
+                <RowDefinition Height="20*" />
+                <RowDefinition Height="15*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <GroupBox Header="Search Method" HorizontalAlignment="Stretch" Margin="10" Name="groupBox1" VerticalAlignment="Stretch">
+                <UniformGrid Rows="1" Columns="2">
+                    <StackPanel HorizontalAlignment="Left" VerticalAlignment="Center" Margin="20,0">
+                        <RadioButton Content="Alpha Beta" Height="16" Name="radioButtonAlphaBeta" Margin="5" Checked="radioButtonAlphaBeta_CheckedChanged" Unchecked="radioButtonAlphaBeta_CheckedChanged" />
+                        <RadioButton Content="Min Max (Slower)" Height="16" Name="radioButtonMinMax" Margin="5" />
+                    </StackPanel>
+                    <CheckBox Content="Use Book Opening" Height="16" Name="checkBoxBookOpening" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="25,0" />
+                </UniformGrid>
+            </GroupBox>
+            <GroupBox Header="Search Time/Depth" HorizontalAlignment="Stretch" Margin="10" Name="groupBox2" VerticalAlignment="Stretch" Grid.Column="1">
+                <UniformGrid Rows="1" Columns="2">
+                    <StackPanel Name="stackPanel1" Margin="20,0" HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <RadioButton Content="Fix Depth" Height="16" Name="radioButtonFixDepth" Margin="5" Checked="radioButtonSearchType_CheckedChanged" Unchecked="radioButtonSearchType_CheckedChanged" />
+                        <RadioButton Content="Fix Depth (Iterative)" Height="16" Name="radioButtonFixDepthIterative" Margin="5" Unchecked="radioButtonSearchType_CheckedChanged" Checked="radioButtonSearchType_CheckedChanged" />
+                        <RadioButton Content="Average Time" Height="16" Name="radioButtonAvgTime" Margin="5" Checked="radioButtonSearchType_CheckedChanged" Unchecked="radioButtonSearchType_CheckedChanged" />
+                    </StackPanel>
+                    <Grid HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition />
+                            <RowDefinition />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="3*" />
+                            <ColumnDefinition Width="2*" />
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="Number of Ply:" Grid.RowSpan="1" Height="28" HorizontalAlignment="Right" Margin="5" Name="labelNumberOfPly" VerticalAlignment="Center" />
+                            <Label Name="plyCount2" VerticalAlignment="Center">XX</Label>
+                        </StackPanel>
+                        <Label Content="Average Time (sec):" Height="28" HorizontalAlignment="Right" Margin="0" Name="labelAvgTime" VerticalAlignment="Center" Grid.Row="1" />
+                        <TextBox Height="23" HorizontalAlignment="Center" Margin="0" Name="textBoxTimeInSec" VerticalAlignment="Center" Width="46" Grid.Column="1" Grid.Row="1" TextChanged="textBoxTimeInSec_TextChanged" />
+                        <Slider Grid.Column="1" Height="23" HorizontalAlignment="Center" Margin="0" Name="plyCount" VerticalAlignment="Center" Width="62" SelectionEnd="8" SelectionStart="1" IsSnapToTickEnabled="True" Minimum="1" Maximum="8" SmallChange="1" />
+                    </Grid>
+
+                </UniformGrid>
+            </GroupBox>
+            <GroupBox Header="Multi-Threading" HorizontalAlignment="Stretch" Margin="10" Name="groupBox3" VerticalAlignment="Stretch" Grid.Row="1">
+                <UniformGrid Rows="1" Columns="3" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0">
+                    <RadioButton Content="One / Processor" Height="16" Name="radioButtonOnePerProc" Margin="5" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    <RadioButton Content="One for Search" Height="16" Name="radioButtonOneForUI" Margin="5" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    <RadioButton Content="Debug" Height="16" Name="radioButtonNoThread" Margin="5" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                </UniformGrid>
+            </GroupBox>
+            <GroupBox Header="Board Evaluation" HorizontalAlignment="Stretch" Margin="10" Name="groupBox4" VerticalAlignment="Stretch" Grid.Column="1" Grid.Row="1">
+                <StackPanel Name="stackPanel2">
+                    <UniformGrid Rows="1" Columns="2">
+                        <Label Content="White:" Height="28" HorizontalAlignment="Left" Margin="5" Name="label3" VerticalAlignment="Center" />
+                        <Label Content="Black:" Height="28" HorizontalAlignment="Left" Margin="5" Name="label4" VerticalAlignment="Center" />
+                    </UniformGrid>
+                    <UniformGrid Rows="1" Columns="2">
+                        <ComboBox Name="comboBoxWhiteBEval" Padding="4,3" Height="23" Margin="5" />
+                        <ComboBox Name="comboBoxBlackBEval" Height="23" />
+                    </UniformGrid>
+                </StackPanel>
+            </GroupBox>
+            <GroupBox Header="Random Move" HorizontalAlignment="Stretch" Margin="10" Name="groupBox5" VerticalAlignment="Stretch" Grid.Row="2">
+                <UniformGrid Rows="1" Columns="3" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0">
+                    <RadioButton Content="Off" Height="16" Name="radioButtonRndOff" Margin="5" HorizontalAlignment="Center" />
+                    <RadioButton Content="On (Repetitive)" Height="16" Name="radioButtonRndOnRep" Margin="5" HorizontalAlignment="Center" />
+                    <RadioButton Content="On" Height="16" Name="radioButtonRndOn" Margin="5" HorizontalAlignment="Center" />
+                </UniformGrid>
+            </GroupBox>
+            <GroupBox Header="Transposition Table" HorizontalAlignment="Stretch" Margin="10" Name="groupBox6" VerticalAlignment="Stretch" Grid.Column="1" Grid.RowSpan="1" Grid.Row="2">
+                <StackPanel Name="stackPanel3" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <CheckBox Content="Activate" Height="16" Name="checkBoxTransTable" Margin="10,5,5,5" />
+                    <Label Content="Size / Processor (MB:)" Height="28" Name="label5" Margin="10,7,0,5" />
+                    <TextBox Height="23" Name="textBoxTransSize" Width="120" Margin="5,7,5,5" TextChanged="textBoxTransSize_TextChanged" />
+                </StackPanel>
+            </GroupBox>
+        </Grid>
+    </DockPanel>
+</Window>
