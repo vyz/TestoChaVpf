@@ -6,3 +6,6 @@ E:\Sharpo\TestoMy\bin\Debug\SrcChess2.xml
 E:\Sharpo\TestoMy\obj\Debug\TestoMy.csprojResolveAssemblyReference.cache
 E:\Sharpo\TestoMy\obj\Debug\TestoMy.dll
 E:\Sharpo\TestoMy\obj\Debug\TestoMy.pdb
+C:\Gita\TestoChaVpf\TestoMy\obj\Debug\TestoMy.csprojResolveAssemblyReference.cache
+C:\Gita\TestoChaVpf\TestoMy\obj\Debug\TestoMy.dll
+C:\Gita\TestoChaVpf\TestoMy\obj\Debug\TestoMy.pdb

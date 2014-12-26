@@ -1,0 +1,356 @@
+C:\Gita\TestoChaVpf\SrcChess2\bin\Release\SrcChess2.exe.config
+C:\Gita\TestoChaVpf\SrcChess2\bin\Release\SrcChess2.exe
+C:\Gita\TestoChaVpf\SrcChess2\bin\Release\SrcChess2.pdb
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\ChessBoardControl.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\frmAbout.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\frmCreatePgnGame.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\frmGameParameter.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\frmPgnFilter.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\frmPgnGamePicker.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\frmQueryPawnPromotionType.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\frmSearchMode.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\frmTestBoardEval.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\LostPiecesControl.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Adventurer\Black Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Adventurer\Black King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Adventurer\Black Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Adventurer\Black Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Adventurer\Black Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Adventurer\Black Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Adventurer\White Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Adventurer\White King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Adventurer\White Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Adventurer\White Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Adventurer\White Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Adventurer\White Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpfonso-X\Black Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpfonso-X\Black King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpfonso-X\Black Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpfonso-X\Black Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpfonso-X\Black Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpfonso-X\Black Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpfonso-X\White Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpfonso-X\White King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpfonso-X\White Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpfonso-X\White Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpfonso-X\White Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpfonso-X\White Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpha-2\Black Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpha-2\Black King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpha-2\Black Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpha-2\Black Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpha-2\Black Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpha-2\Black Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpha-2\White Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpha-2\White King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpha-2\White Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpha-2\White Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpha-2\White Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpha-2\White Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpha\Black Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpha\Black King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpha\Black Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpha\Black Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpha\Black Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpha\Black Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpha\White Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpha\White King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpha\White Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpha\White Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpha\White Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Alpha\White Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Arial Unicode MS\Black Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Arial Unicode MS\Black King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Arial Unicode MS\Black Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Arial Unicode MS\Black Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Arial Unicode MS\Black Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Arial Unicode MS\Black Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Arial Unicode MS\White Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Arial Unicode MS\White King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Arial Unicode MS\White Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Arial Unicode MS\White Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Arial Unicode MS\White Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Arial Unicode MS\White Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Berlin\Black Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Berlin\Black King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Berlin\Black Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Berlin\Black Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Berlin\Black Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Berlin\Black Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Berlin\White Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Berlin\White King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Berlin\White Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Berlin\White Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Berlin\White Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Berlin\White Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Cases\Black Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Cases\Black King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Cases\Black Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Cases\Black Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Cases\Black Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Cases\Black Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Cases\White Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Cases\White King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Cases\White Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Cases\White Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Cases\White Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Cases\White Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Chess-7\Black Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Chess-7\Black King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Chess-7\Black Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Chess-7\Black Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Chess-7\Black Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Chess-7\Black Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Chess-7\White Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Chess-7\White King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Chess-7\White Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Chess-7\White Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Chess-7\White Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Chess-7\White Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Condal\Black Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Condal\Black King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Condal\Black Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Condal\Black Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Condal\Black Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Condal\Black Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Condal\White Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Condal\White King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Condal\White Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Condal\White Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Condal\White Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Condal\White Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Harlequin\Black Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Harlequin\Black King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Harlequin\Black Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Harlequin\Black Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Harlequin\Black Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Harlequin\Black Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Harlequin\White Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Harlequin\White King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Harlequin\White Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Harlequin\White Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Harlequin\White Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Harlequin\White Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Kingdom\Black Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Kingdom\Black King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Kingdom\Black Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Kingdom\Black Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Kingdom\Black Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Kingdom\Black Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Kingdom\White Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Kingdom\White King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Kingdom\White Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Kingdom\White Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Kingdom\White Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Kingdom\White Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Leipzig\Black Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Leipzig\Black King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Leipzig\Black Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Leipzig\Black Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Leipzig\Black Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Leipzig\Black Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Leipzig\White Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Leipzig\White King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Leipzig\White Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Leipzig\White Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Leipzig\White Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Leipzig\White Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Line\Black Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Line\Black King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Line\Black Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Line\Black Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Line\Black Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Line\Black Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Line\White Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Line\White King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Line\White Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Line\White Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Line\White Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Line\White Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Lucena\Black Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Lucena\Black King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Lucena\Black Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Lucena\Black Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Lucena\Black Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Lucena\Black Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Lucena\White Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Lucena\White King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Lucena\White Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Lucena\White Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Lucena\White Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Lucena\White Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Magnetic\Black Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Magnetic\Black King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Magnetic\Black Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Magnetic\Black Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Magnetic\Black Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Magnetic\Black Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Magnetic\White Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Magnetic\White King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Magnetic\White Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Magnetic\White Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Magnetic\White Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Magnetic\White Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Maya\Black Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Maya\Black King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Maya\Black Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Maya\Black Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Maya\Black Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Maya\Black Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Maya\White Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Maya\White King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Maya\White Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Maya\White Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Maya\White Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Maya\White Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Mediaeval\Black Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Mediaeval\Black King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Mediaeval\Black Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Mediaeval\Black Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Mediaeval\Black Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Mediaeval\Black Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Mediaeval\White Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Mediaeval\White King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Mediaeval\White Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Mediaeval\White Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Mediaeval\White Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Mediaeval\White Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Merida\Black Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Merida\Black King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Merida\Black Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Merida\Black Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Merida\Black Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Merida\Black Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Merida\White Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Merida\White King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Merida\White Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Merida\White Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Merida\White Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Merida\White Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Millennia\Black Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Millennia\Black King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Millennia\Black Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Millennia\Black Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Millennia\Black Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Millennia\Black Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Millennia\White Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Millennia\White King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Millennia\White Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Millennia\White Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Millennia\White Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Millennia\White Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Motif\Black Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Motif\Black King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Motif\Black Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Motif\Black Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Motif\Black Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Motif\Black Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Motif\White Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Motif\White King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Motif\White Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Motif\White Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Motif\White Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Motif\White Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\MS Mincho\Black Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\MS Mincho\Black King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\MS Mincho\Black Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\MS Mincho\Black Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\MS Mincho\Black Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\MS Mincho\Black Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\MS Mincho\White Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\MS Mincho\White King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\MS Mincho\White Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\MS Mincho\White Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\MS Mincho\White Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\MS Mincho\White Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Plain\Black Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Plain\Black King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Plain\Black Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Plain\Black Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Plain\Black Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Plain\Black Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Plain\White Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Plain\White King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Plain\White Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Plain\White Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Plain\White Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Plain\White Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Segoe UI Symbol\Black Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Segoe UI Symbol\Black King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Segoe UI Symbol\Black Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Segoe UI Symbol\Black Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Segoe UI Symbol\Black Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Segoe UI Symbol\Black Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Segoe UI Symbol\White Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Segoe UI Symbol\White King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Segoe UI Symbol\White Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Segoe UI Symbol\White Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Segoe UI Symbol\White Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Segoe UI Symbol\White Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Smart\Black Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Smart\Black King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Smart\Black Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Smart\Black Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Smart\Black Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Smart\Black Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Smart\White Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Smart\White King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Smart\White Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Smart\White Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Smart\White Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Smart\White Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Traveller Standard\Black Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Traveller Standard\Black King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Traveller Standard\Black Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Traveller Standard\Black Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Traveller Standard\Black Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Traveller Standard\Black Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Traveller Standard\White Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Traveller Standard\White King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Traveller Standard\White Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Traveller Standard\White Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Traveller Standard\White Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Traveller Standard\White Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Usual\Black Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Usual\Black King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Usual\Black Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Usual\Black Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Usual\Black Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Usual\Black Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Usual\White Bishop.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Usual\White King.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Usual\White Knight.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Usual\White Pawn.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Usual\White Queen.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\PieceSets\Usual\White Rook.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\ChessBoardControl.g.cs
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\ChessToolBar.g.cs
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\CustomColorPicker.g.cs
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\CustomColorSelector.g.cs
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\frmAbout.g.cs
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\frmBoardSetting.g.cs
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\frmCreatePgnGame.g.cs
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\frmGameParameter.g.cs
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\frmPgnFilter.g.cs
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\frmPgnGamePicker.g.cs
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\frmQueryPawnPromotionType.g.cs
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\frmSearchMode.g.cs
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\frmTestBoardEval.g.cs
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\LostPiecesControl.g.cs
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\MainWindow.g.cs
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\MoveViewer.g.cs
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\App.g.cs
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\SrcChess2_MarkupCompile.cache
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\SrcChess2_MarkupCompile.lref
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\ChessToolBar.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\CustomColorPicker.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\CustomColorSelector.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\frmBoardSetting.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\MainWindow.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\MoveViewer.baml
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\SrcChess2.g.resources
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\SrcChess2.Properties.Resources.resources
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\SrcChess2.csproj.GenerateResource.Cache
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\SrcChess2.exe
+C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Release\SrcChess2.pdb

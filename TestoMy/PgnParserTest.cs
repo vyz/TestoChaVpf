@@ -71,6 +71,29 @@ namespace TestoMy
         [DeploymentItem("SrcChess2.exe")]
         public void ParseFENTest()
         {
+            PgnParser_Accessor target = new PgnParser_Accessor();
+            string strFEN = "";
+            ChessBoard.PlayerColorE eColorToMove;
+            ChessBoard.BoardStateMaskE eBoardStateMask;
+            int iEnPassant;
+            bool bexpected = true;
+            ChessBoard.PlayerColorE coloExpected = ChessBoard.PlayerColorE.Black;
+            ChessBoard.BoardStateMaskE MaskoExpected = ChessBoard.BoardStateMaskE.BlackToMove;
+            int iExpected = 0;
+            bool bactual = target.ParseFEN(strFEN, out eColorToMove, out eBoardStateMask, out iEnPassant);
+ 
+             // Сбой при создании частного метода доступа для "Microsoft.VisualStudio.TestTools.TypesAndSymbols.Assembly"
+            Assert.Inconclusive("Сбой при создании частного метода доступа для \"Microsoft.VisualStudio.TestTools.T" +
+                    "ypesAndSymbols.Assembly\"");
+        }
+
+        /// <summary>
+        ///Тест для FindCastling
+        ///</summary>
+        [TestMethod()]
+        [DeploymentItem("SrcChess2.exe")]
+        public void FindCastlingTest()
+        {
             // Сбой при создании частного метода доступа для "Microsoft.VisualStudio.TestTools.TypesAndSymbols.Assembly"
             Assert.Inconclusive("Сбой при создании частного метода доступа для \"Microsoft.VisualStudio.TestTools.T" +
                     "ypesAndSymbols.Assembly\"");
