@@ -75,7 +75,7 @@ namespace SrcChess2 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/SrcChess2;component/frmpgngamepicker.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/VPfo;component/frmpgngamepicker.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\frmPgnGamePicker.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SrcChess2", "SrcChess2\SrcChess2.csproj", "{03A60417-80E2-4587-817D-1C581427E2B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VPfo", "SrcChess2\VPfo.csproj", "{03A60417-80E2-4587-817D-1C581427E2B1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestoMy", "TestoMy\TestoMy.csproj", "{C6744E4E-91CA-4A7D-AB5A-63E5C25C44BE}"
 EndProject

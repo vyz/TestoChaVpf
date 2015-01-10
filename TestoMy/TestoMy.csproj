@@ -63,13 +63,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SrcChess2\SrcChess2.csproj">
+    <ProjectReference Include="..\SrcChess2\VPfo.csproj">
       <Project>{03A60417-80E2-4587-817D-1C581427E2B1}</Project>
-      <Name>SrcChess2</Name>
+      <Name>VPfo</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <Shadow Include="Тестовые ссылки\SrcChess2.accessor" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
