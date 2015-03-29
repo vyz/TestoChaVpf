@@ -147,7 +147,7 @@ namespace SrcChess2 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/VPfo;component/frmabout.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/SrcChess2;component/frmabout.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\frmAbout.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -156,7 +156,7 @@ namespace SrcChess2 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/VPfo;component/customcolorselector.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/SrcChess2;component/customcolorselector.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\CustomColorSelector.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

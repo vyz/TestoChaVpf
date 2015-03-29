@@ -11,6 +11,6 @@ C:\Users\Mant\Documents\GitHub\TestoChaVpf\TestoMy\obj\Debug\TestoMy.dll
 C:\Users\Mant\Documents\GitHub\TestoChaVpf\TestoMy\obj\Debug\TestoMy.pdb
 C:\Users\Mant\Documents\GitHub\TestoChaVpf\TestoMy\bin\Debug\TestoMy.dll
 C:\Users\Mant\Documents\GitHub\TestoChaVpf\TestoMy\bin\Debug\TestoMy.pdb
-C:\Users\Mant\Documents\GitHub\TestoChaVpf\TestoMy\bin\Debug\VPfo.exe
-C:\Users\Mant\Documents\GitHub\TestoChaVpf\TestoMy\bin\Debug\VPfo.pdb
-C:\Users\Mant\Documents\GitHub\TestoChaVpf\TestoMy\bin\Debug\VPfo.xml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\TestoMy\bin\Debug\SrcChess2.exe
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\TestoMy\bin\Debug\SrcChess2.pdb
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\TestoMy\bin\Debug\SrcChess2.xml

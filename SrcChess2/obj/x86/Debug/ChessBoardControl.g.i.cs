@@ -59,7 +59,7 @@ namespace SrcChess2 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/VPfo;component/chessboardcontrol.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/SrcChess2;component/chessboardcontrol.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\ChessBoardControl.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

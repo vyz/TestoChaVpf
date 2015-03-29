@@ -60,7 +60,7 @@ namespace SrcChess2 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/VPfo;component/moveviewer.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/SrcChess2;component/moveviewer.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\MoveViewer.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

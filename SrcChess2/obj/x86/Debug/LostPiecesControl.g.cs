@@ -67,7 +67,7 @@ namespace SrcChess2 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/VPfo;component/lostpiecescontrol.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/SrcChess2;component/lostpiecescontrol.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\LostPiecesControl.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

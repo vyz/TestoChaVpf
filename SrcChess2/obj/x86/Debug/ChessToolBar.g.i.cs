@@ -124,7 +124,7 @@ namespace SrcChess2 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/VPfo;component/chesstoolbar.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/SrcChess2;component/chesstoolbar.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\ChessToolBar.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
