@@ -1,7 +1,6 @@
 ﻿using SrcChess2;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
-using System.IO;
 
 namespace TestoMy
 {
@@ -83,30 +82,6 @@ namespace TestoMy
             actual = target.Points(searchMode, ePlayerToPlay, iDepth, iMoveCountDelta, posInfoWhite, posInfoBlack);
             Assert.AreEqual(expected, actual);
             Assert.Inconclusive("Проверьте правильность этого метода теста.");
-        }
-
-        /// <summary>
-        ///Тест для LoadBoard
-        ///</summary>
-        [TestMethod()]
-        public void LoadBoardTest()
-        {
-            ChessBoard target = new ChessBoard();
-            BinaryReader reader = new BinaryReader(File.OpenRead(@"E:\Chess\PGNConvertDir\dirout\as1.che"));
-
-            bool expected = true; 
-            bool actual;
-            //Первая строка для LocalChessBoardControl
-            string a1 = reader.ReadString();
-            string b1 = "SRCCHESS095";
-            Assert.AreEqual(a1, b1);
-            //Вторая строка для ChessBoardControl - после основного чтения еще читает инфо об игроках и времени
-            //смотри: public virtual bool LoadGame(BinaryReader reader) 
-            a1 = reader.ReadString();
-            b1 = "SRCBC095";
-            Assert.AreEqual(a1, b1);
-            actual = target.LoadBoard(reader);
-            Assert.AreEqual(expected, actual);
         }
     }
 }

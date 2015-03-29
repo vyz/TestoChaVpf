@@ -104,8 +104,8 @@ namespace SrcChess2 {
             /// <summary>Checkmate</summary>
             Mate
         }
-
-        /// <summary>Тип хода</summary>
+            
+        /// <summary>Type of possible move</summary>
         public enum MoveTypeE : byte {
             /// <summary>Normal move</summary>
             Normal                  = 0,
@@ -158,6 +158,7 @@ namespace SrcChess2 {
                 {
                     sret = string.Format("{0}:{1} [{2}]", NotationMove(StartPos), NotationMove(EndPos), FiguraRussian(OriginalPiece));
                 }
+                string stype = string.Empty;
                 if (Type != MoveTypeE.Normal) {
                     sret = sret + string.Format(" [{0}]", Type);
                     }
@@ -231,11 +232,11 @@ namespace SrcChess2 {
         private int                         m_iLWhiteRookMoveCount;
         /// <summary>Number of time the white king has been moved. Used to determine if castle is possible</summary>
         private int                         m_iWhiteKingMoveCount;
-        /// <summary>Белые могут рокировать, если true</summary>
+        /// <summary>White has castle if true</summary>
         private bool                        m_bWhiteCastle;
-        /// <summary>Черные могут рокировать, если true</summary>
+        /// <summary>Black has castle if true</summary>
         private bool                        m_bBlackCastle;
-        /// <summary>Отличен от 0 в случае последнего длинного хода пешкой</summary>
+        /// <summary>Not 0 if the last move was to move a pawn from 2 position</summary>
         private int                         m_iPossibleEnPassantAt;
         /// <summary>Stack of m_iPossibleEnPassantAt values</summary>
         private Stack<int>                  m_stackPossibleEnPassantAt;
@@ -249,8 +250,7 @@ namespace SrcChess2 {
         private MoveHistory                 m_moveHistory;
         /// <summary>The board is in design mode if true</summary>
         private bool                        m_bDesignMode;
-        /// <summary>Стек ходов с начальной позиции.
-        /// Класс, содержащий список структур MovePosS</summary>
+        /// <summary>Stack of moves since the initial board</summary>
         private MovePosStack                m_moveStack;
         /// <summary>Color of the next move</summary>
         private PlayerColorE                m_eNextMoveColor;
@@ -264,7 +264,7 @@ namespace SrcChess2 {
         private PosInfoS                    m_posInfo;
 
         /// <summary>
-        /// Статический конструктор класса
+        /// Class static constructor. 
         /// Builds the list of possible moves for each piece type per position.
         /// Etablished the value of each type of piece for board evaluation.
         /// </summary>
@@ -300,7 +300,6 @@ namespace SrcChess2 {
         }
 
         /// <summary>
-        /// Функция для заполнения массивов статическим конструктором.
         /// Fill the possible move array using the specified delta
         /// </summary>
         /// <param name="iStartPos">    Start position</param>
