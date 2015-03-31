@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< HEAD:SrcChess2/obj/x86/Debug/SrcChess2_MarkupCompile.i.lref
 ﻿C:\Gita\TestoChaVpf\SrcChess2\obj\x86\Debug\GeneratedInternalTypeHelper.g.i.cs
 =======
@@ -10,4 +11,14 @@ FC:\Gita\TestoChaVpf\SrcChess2\CustomColorSelector.xaml;;
 FC:\Gita\TestoChaVpf\SrcChess2\frmBoardSetting.xaml;;
 FC:\Gita\TestoChaVpf\SrcChess2\MainWindow.xaml;;
 FC:\Gita\TestoChaVpf\SrcChess2\MoveViewer.xaml;;
+=======
+﻿C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+
+FC:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\ChessToolBar.xaml;;
+FC:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\CustomColorPicker.xaml;;
+FC:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\CustomColorSelector.xaml;;
+FC:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\frmBoardSetting.xaml;;
+FC:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\MainWindow.xaml;;
+FC:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\MoveViewer.xaml;;
+>>>>>>> parent of 00bc435... LotOfTestAndCommento
 

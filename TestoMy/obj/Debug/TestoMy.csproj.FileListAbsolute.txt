@@ -19,4 +19,7 @@ C:\Users\Mant\Documents\GitHub\TestoChaVpf\TestoMy\bin\Debug\TestoMy.pdb
 C:\Users\Mant\Documents\GitHub\TestoChaVpf\TestoMy\bin\Debug\VPfo.exe
 C:\Users\Mant\Documents\GitHub\TestoChaVpf\TestoMy\bin\Debug\VPfo.pdb
 C:\Users\Mant\Documents\GitHub\TestoChaVpf\TestoMy\bin\Debug\VPfo.xml
+<<<<<<< HEAD
 >>>>>>> origin/master
+=======
+>>>>>>> parent of 00bc435... LotOfTestAndCommento
