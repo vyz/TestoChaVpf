@@ -227,7 +227,7 @@ namespace SrcChess2 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/SrcChess2;component/frmpgnfilter.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/VPfo;component/frmpgnfilter.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\frmPgnFilter.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

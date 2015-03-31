@@ -1,0 +1,357 @@
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\bin\Debug\VPfo.exe.config
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\bin\Debug\VPfo.xml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\bin\Debug\VPfo.exe
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\bin\Debug\VPfo.pdb
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\ChessBoardControl.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\frmAbout.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\frmCreatePgnGame.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\frmGameParameter.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\frmPgnFilter.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\frmPgnGamePicker.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\frmQueryPawnPromotionType.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\frmSearchMode.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\frmTestBoardEval.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\LostPiecesControl.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Adventurer\Black Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Adventurer\Black King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Adventurer\Black Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Adventurer\Black Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Adventurer\Black Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Adventurer\Black Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Adventurer\White Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Adventurer\White King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Adventurer\White Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Adventurer\White Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Adventurer\White Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Adventurer\White Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpfonso-X\Black Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpfonso-X\Black King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpfonso-X\Black Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpfonso-X\Black Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpfonso-X\Black Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpfonso-X\Black Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpfonso-X\White Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpfonso-X\White King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpfonso-X\White Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpfonso-X\White Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpfonso-X\White Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpfonso-X\White Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpha-2\Black Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpha-2\Black King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpha-2\Black Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpha-2\Black Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpha-2\Black Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpha-2\Black Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpha-2\White Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpha-2\White King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpha-2\White Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpha-2\White Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpha-2\White Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpha-2\White Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpha\Black Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpha\Black King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpha\Black Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpha\Black Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpha\Black Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpha\Black Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpha\White Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpha\White King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpha\White Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpha\White Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpha\White Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Alpha\White Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Arial Unicode MS\Black Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Arial Unicode MS\Black King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Arial Unicode MS\Black Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Arial Unicode MS\Black Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Arial Unicode MS\Black Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Arial Unicode MS\Black Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Arial Unicode MS\White Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Arial Unicode MS\White King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Arial Unicode MS\White Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Arial Unicode MS\White Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Arial Unicode MS\White Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Arial Unicode MS\White Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Berlin\Black Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Berlin\Black King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Berlin\Black Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Berlin\Black Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Berlin\Black Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Berlin\Black Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Berlin\White Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Berlin\White King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Berlin\White Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Berlin\White Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Berlin\White Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Berlin\White Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Cases\Black Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Cases\Black King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Cases\Black Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Cases\Black Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Cases\Black Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Cases\Black Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Cases\White Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Cases\White King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Cases\White Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Cases\White Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Cases\White Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Cases\White Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Chess-7\Black Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Chess-7\Black King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Chess-7\Black Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Chess-7\Black Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Chess-7\Black Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Chess-7\Black Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Chess-7\White Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Chess-7\White King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Chess-7\White Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Chess-7\White Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Chess-7\White Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Chess-7\White Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Condal\Black Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Condal\Black King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Condal\Black Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Condal\Black Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Condal\Black Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Condal\Black Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Condal\White Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Condal\White King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Condal\White Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Condal\White Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Condal\White Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Condal\White Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Harlequin\Black Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Harlequin\Black King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Harlequin\Black Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Harlequin\Black Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Harlequin\Black Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Harlequin\Black Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Harlequin\White Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Harlequin\White King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Harlequin\White Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Harlequin\White Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Harlequin\White Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Harlequin\White Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Kingdom\Black Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Kingdom\Black King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Kingdom\Black Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Kingdom\Black Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Kingdom\Black Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Kingdom\Black Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Kingdom\White Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Kingdom\White King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Kingdom\White Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Kingdom\White Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Kingdom\White Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Kingdom\White Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Leipzig\Black Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Leipzig\Black King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Leipzig\Black Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Leipzig\Black Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Leipzig\Black Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Leipzig\Black Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Leipzig\White Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Leipzig\White King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Leipzig\White Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Leipzig\White Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Leipzig\White Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Leipzig\White Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Line\Black Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Line\Black King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Line\Black Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Line\Black Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Line\Black Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Line\Black Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Line\White Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Line\White King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Line\White Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Line\White Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Line\White Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Line\White Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Lucena\Black Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Lucena\Black King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Lucena\Black Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Lucena\Black Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Lucena\Black Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Lucena\Black Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Lucena\White Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Lucena\White King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Lucena\White Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Lucena\White Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Lucena\White Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Lucena\White Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Magnetic\Black Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Magnetic\Black King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Magnetic\Black Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Magnetic\Black Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Magnetic\Black Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Magnetic\Black Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Magnetic\White Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Magnetic\White King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Magnetic\White Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Magnetic\White Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Magnetic\White Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Magnetic\White Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Maya\Black Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Maya\Black King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Maya\Black Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Maya\Black Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Maya\Black Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Maya\Black Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Maya\White Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Maya\White King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Maya\White Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Maya\White Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Maya\White Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Maya\White Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Mediaeval\Black Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Mediaeval\Black King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Mediaeval\Black Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Mediaeval\Black Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Mediaeval\Black Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Mediaeval\Black Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Mediaeval\White Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Mediaeval\White King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Mediaeval\White Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Mediaeval\White Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Mediaeval\White Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Mediaeval\White Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Merida\Black Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Merida\Black King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Merida\Black Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Merida\Black Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Merida\Black Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Merida\Black Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Merida\White Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Merida\White King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Merida\White Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Merida\White Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Merida\White Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Merida\White Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Millennia\Black Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Millennia\Black King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Millennia\Black Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Millennia\Black Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Millennia\Black Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Millennia\Black Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Millennia\White Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Millennia\White King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Millennia\White Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Millennia\White Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Millennia\White Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Millennia\White Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Motif\Black Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Motif\Black King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Motif\Black Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Motif\Black Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Motif\Black Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Motif\Black Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Motif\White Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Motif\White King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Motif\White Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Motif\White Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Motif\White Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Motif\White Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\MS Mincho\Black Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\MS Mincho\Black King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\MS Mincho\Black Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\MS Mincho\Black Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\MS Mincho\Black Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\MS Mincho\Black Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\MS Mincho\White Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\MS Mincho\White King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\MS Mincho\White Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\MS Mincho\White Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\MS Mincho\White Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\MS Mincho\White Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Plain\Black Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Plain\Black King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Plain\Black Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Plain\Black Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Plain\Black Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Plain\Black Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Plain\White Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Plain\White King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Plain\White Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Plain\White Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Plain\White Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Plain\White Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Segoe UI Symbol\Black Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Segoe UI Symbol\Black King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Segoe UI Symbol\Black Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Segoe UI Symbol\Black Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Segoe UI Symbol\Black Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Segoe UI Symbol\Black Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Segoe UI Symbol\White Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Segoe UI Symbol\White King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Segoe UI Symbol\White Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Segoe UI Symbol\White Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Segoe UI Symbol\White Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Segoe UI Symbol\White Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Smart\Black Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Smart\Black King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Smart\Black Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Smart\Black Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Smart\Black Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Smart\Black Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Smart\White Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Smart\White King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Smart\White Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Smart\White Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Smart\White Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Smart\White Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Traveller Standard\Black Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Traveller Standard\Black King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Traveller Standard\Black Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Traveller Standard\Black Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Traveller Standard\Black Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Traveller Standard\Black Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Traveller Standard\White Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Traveller Standard\White King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Traveller Standard\White Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Traveller Standard\White Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Traveller Standard\White Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Traveller Standard\White Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Usual\Black Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Usual\Black King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Usual\Black Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Usual\Black Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Usual\Black Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Usual\Black Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Usual\White Bishop.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Usual\White King.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Usual\White Knight.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Usual\White Pawn.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Usual\White Queen.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\PieceSets\Usual\White Rook.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\ChessBoardControl.g.cs
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\ChessToolBar.g.cs
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\CustomColorPicker.g.cs
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\CustomColorSelector.g.cs
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\frmAbout.g.cs
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\frmBoardSetting.g.cs
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\frmCreatePgnGame.g.cs
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\frmGameParameter.g.cs
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\frmPgnFilter.g.cs
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\frmPgnGamePicker.g.cs
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\frmQueryPawnPromotionType.g.cs
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\frmSearchMode.g.cs
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\frmTestBoardEval.g.cs
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\LostPiecesControl.g.cs
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\MoveViewer.g.cs
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\App.g.cs
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\VPfo_MarkupCompile.cache
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\VPfo_MarkupCompile.lref
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\ChessToolBar.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\CustomColorPicker.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\CustomColorSelector.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\frmBoardSetting.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\MainWindow.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\MoveViewer.baml
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\VPfo.g.resources
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\SrcChess2.Properties.Resources.resources
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\VPfo.csproj.GenerateResource.Cache
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\VPfo.exe
+C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\obj\x86\Debug\VPfo.pdb
