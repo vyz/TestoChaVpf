@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="b3f8db8b-a416-4d3a-962a-b61984b0d1a7" name="Mant@MANT01 2015-04-14 20:20:07" runUser="MANT01\Mant" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Параметры тестирования по умолчанию" id="762557d1-d6e8-4b07-931d-e69a590ea4ff">
+    <Deployment runDeploymentRoot="Mant_MANT01 2015-04-14 20_20_07">
+      <DeploymentItem filename="C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\bin\Debug\SrcChess2.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-04-14T20:20:07.4491268+03:00" queuing="2015-04-14T20:20:08.4122374+03:00" start="2015-04-14T20:20:08.5479730+03:00" finish="2015-04-14T20:20:30.3990916+03:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="MANT01" outcome="Error" timestamp="2015-04-14T20:20:30.3843524+03:00">
+        <Text>Неожиданный выход из тестового хост-процесса.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="LoadBoardTest" storage="c:\users\mant\documents\github\testochavpf\testomy\bin\debug\testomy.dll" id="974e93c6-c691-f6e4-84a6-0f037f978abc">
+      <Execution id="8ee0c8b9-99e5-45de-b0cc-5eb79203184a" />
+      <TestMethod codeBase="C:/Users/Mant/Documents/GitHub/TestoChaVpf/TestoMy/bin/Debug/TestoMy.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestoMy.ChessBoardTest, TestoMy, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="LoadBoardTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Отсутствующие в списке результаты" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Все загруженные результаты" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="974e93c6-c691-f6e4-84a6-0f037f978abc" executionId="8ee0c8b9-99e5-45de-b0cc-5eb79203184a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="8ee0c8b9-99e5-45de-b0cc-5eb79203184a" testId="974e93c6-c691-f6e4-84a6-0f037f978abc" testName="LoadBoardTest" computerName="MANT01" duration="00:00:21.7867312" startTime="2015-04-14T20:20:08.6123604+03:00" endTime="2015-04-14T20:20:30.3990916+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8ee0c8b9-99e5-45de-b0cc-5eb79203184a">
+    </UnitTestResult>
+  </Results>
+</TestRun>

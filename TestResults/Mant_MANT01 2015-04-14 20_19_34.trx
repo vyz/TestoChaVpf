@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="7c01ce92-4c09-42e7-89b8-ee83982ac681" name="Mant@MANT01 2015-04-14 20:19:34" runUser="MANT01\Mant" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Параметры тестирования по умолчанию" id="830b5355-d524-4791-9a28-b1e7b2b3a747">
+    <Deployment runDeploymentRoot="Mant_MANT01 2015-04-14 20_19_34">
+      <DeploymentItem filename="C:\Users\Mant\Documents\GitHub\TestoChaVpf\SrcChess2\bin\Debug\SrcChess2.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-04-14T20:19:34.5996196+03:00" queuing="2015-04-14T20:19:35.6845805+03:00" start="2015-04-14T20:19:35.8300883+03:00" finish="2015-04-14T20:19:58.2364896+03:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="4" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="3" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="MANT01" outcome="Error" timestamp="2015-04-14T20:19:58.2045852+03:00">
+        <Text>Неожиданный выход из тестового хост-процесса.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="LoadBoardTest" storage="c:\users\mant\documents\github\testochavpf\testomy\bin\debug\testomy.dll" id="974e93c6-c691-f6e4-84a6-0f037f978abc">
+      <Execution id="805b48b3-8095-4bbc-90f5-3f671abe740e" />
+      <TestMethod codeBase="C:/Users/Mant/Documents/GitHub/TestoChaVpf/TestoMy/bin/Debug/TestoMy.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestoMy.ChessBoardTest, TestoMy, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="LoadBoardTest" />
+    </UnitTest>
+    <UnitTest name="PointsTest" storage="c:\users\mant\documents\github\testochavpf\testomy\bin\debug\testomy.dll" id="23895db2-cd82-9843-8b07-a0bf732f3f2f">
+      <Execution id="1730f3ed-e469-4d78-89da-e6eaa0f9c516" />
+      <TestMethod codeBase="C:/Users/Mant/Documents/GitHub/TestoChaVpf/TestoMy/bin/Debug/TestoMy.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestoMy.ChessBoardTest, TestoMy, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PointsTest" />
+    </UnitTest>
+    <UnitTest name="ParseFENTest" storage="c:\users\mant\documents\github\testochavpf\testomy\bin\debug\testomy.dll" id="1bacc707-1e1d-8efa-f015-8bd4837f08f5">
+      <DeploymentItems>
+        <DeploymentItem filename="SrcChess2.exe" />
+      </DeploymentItems>
+      <Execution id="6da687cf-773b-486b-9a98-599aea41d303" />
+      <TestMethod codeBase="C:/Users/Mant/Documents/GitHub/TestoChaVpf/TestoMy/bin/Debug/TestoMy.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestoMy.PgnParserTest, TestoMy, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ParseFENTest" />
+    </UnitTest>
+    <UnitTest name="ToStringTest" storage="c:\users\mant\documents\github\testochavpf\testomy\bin\debug\testomy.dll" id="537190e7-55d9-40ab-80cb-bf663c372ecc">
+      <Execution id="41c5257b-43b4-4a76-97dd-ca2575aec723" />
+      <TestMethod codeBase="C:/Users/Mant/Documents/GitHub/TestoChaVpf/TestoMy/bin/Debug/TestoMy.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestoMy.ChessBoard_MovePosSTest, TestoMy, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ToStringTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Отсутствующие в списке результаты" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Все загруженные результаты" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="1bacc707-1e1d-8efa-f015-8bd4837f08f5" executionId="6da687cf-773b-486b-9a98-599aea41d303" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="23895db2-cd82-9843-8b07-a0bf732f3f2f" executionId="1730f3ed-e469-4d78-89da-e6eaa0f9c516" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="537190e7-55d9-40ab-80cb-bf663c372ecc" executionId="41c5257b-43b4-4a76-97dd-ca2575aec723" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="974e93c6-c691-f6e4-84a6-0f037f978abc" executionId="805b48b3-8095-4bbc-90f5-3f671abe740e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="6da687cf-773b-486b-9a98-599aea41d303" testId="1bacc707-1e1d-8efa-f015-8bd4837f08f5" testName="ParseFENTest" computerName="MANT01" duration="00:00:22.3263231" startTime="2015-04-14T20:19:35.9101665+03:00" endTime="2015-04-14T20:19:58.2364896+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6da687cf-773b-486b-9a98-599aea41d303">
+    </UnitTestResult>
+    <UnitTestResult executionId="1730f3ed-e469-4d78-89da-e6eaa0f9c516" testId="23895db2-cd82-9843-8b07-a0bf732f3f2f" testName="PointsTest" computerName="MANT01" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1730f3ed-e469-4d78-89da-e6eaa0f9c516">
+    </UnitTestResult>
+    <UnitTestResult executionId="41c5257b-43b4-4a76-97dd-ca2575aec723" testId="537190e7-55d9-40ab-80cb-bf663c372ecc" testName="ToStringTest" computerName="MANT01" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="41c5257b-43b4-4a76-97dd-ca2575aec723">
+    </UnitTestResult>
+    <UnitTestResult executionId="805b48b3-8095-4bbc-90f5-3f671abe740e" testId="974e93c6-c691-f6e4-84a6-0f037f978abc" testName="LoadBoardTest" computerName="MANT01" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="805b48b3-8095-4bbc-90f5-3f671abe740e">
+    </UnitTestResult>
+  </Results>
+</TestRun>

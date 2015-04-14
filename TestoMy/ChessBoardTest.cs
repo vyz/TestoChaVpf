@@ -92,7 +92,7 @@ namespace TestoMy
         public void LoadBoardTest()
         {
             ChessBoard target = new ChessBoard();
-            BinaryReader reader = new BinaryReader(File.OpenRead(@"E:\Chess\PGNConvertDir\dirout\as1.che"));
+            BinaryReader reader = new BinaryReader(File.OpenRead(@"..\..\..\TestoMy\as1.che"));
 
             bool expected = true; 
             bool actual;
